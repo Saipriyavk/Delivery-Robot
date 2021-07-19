@@ -1,0 +1,8 @@
+prefix=/home/saipriya/projects_ai_cse/devel
+
+Name: cse571_project
+Description: Description of cse571_project
+Version: 0.0.0
+Cflags: -I/home/saipriya/projects_ai_cse/devel/include
+Libs: -L/home/saipriya/projects_ai_cse/devel/lib 
+Requires: 

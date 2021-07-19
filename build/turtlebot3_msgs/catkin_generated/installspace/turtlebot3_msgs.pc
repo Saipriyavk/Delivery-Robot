@@ -1,0 +1,8 @@
+prefix=/home/saipriya/projects_ai_cse/install
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.0
+Cflags: -I/home/saipriya/projects_ai_cse/install/include
+Libs: -L/home/saipriya/projects_ai_cse/install/lib 
+Requires: std_msgs message_runtime
